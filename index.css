@@ -1,6 +1,7 @@
 html, body {
     height: 100%;
     width: 100%;
+    @media max-device-width: 100%;
 }
 
 /* Gradient, because I can! */
